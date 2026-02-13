@@ -1,0 +1,8 @@
+
+{
+  "name": "NavPal AI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
